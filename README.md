@@ -2,7 +2,7 @@
 
 Now that we know more about styling let’s go back to our five-by-five project and make it more appealing.
 
-I will provide a start up code feel free to use that but it would be best if you use your own five-by-five that you did for the past HW.
+I will provide a start up code feel free to use that but it would be best if you use your own five-by-five that you did for the HW.
 
 ![brace](http://www.quickmeme.com/img/10/10ce2fc1c9ce11e624670026c9b519ac893476fad058d1ab5154473d955fe160.jpg)
 
