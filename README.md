@@ -1,12 +1,15 @@
 # Five by Five to be continued....
 
-Now that we know more about styling, let’s go back to our five-by-five project and make it more appealing.
-
-I will provide a start up code feel free to use that but it would be best if you use your own five-by-five that you did for the HW.
+Now that we know more about styling, let’s go back to our five-by-five project and make it more appealing. Except we're not going to go back to _our_ five-by-five; we're going to fork someone else's, making changes as we go.
 
 ![brace](http://www.quickmeme.com/img/10/10ce2fc1c9ce11e624670026c9b519ac893476fad058d1ab5154473d955fe160.jpg)
 
-## Now let’s do our changes
+We'll use that starting point to make the prettiest version of five-by-five that we can with the tools we have.
+
+So this time, no Nicholas Cage background images, okay?
+
+
+## Now let’s do our changes!
 
 * If you haven't set this up already, make sure each top 5 list is on its own html page; the main page should have a link to each list.
 * Have a different background color/image for each html page. For at least one of the categories, use an image as a background.
