@@ -1,6 +1,10 @@
 body {
-    background-image: <img src:"./five-by-five-1/tunnel.jpg" >;
-    font-size= 20px';
-    :disabled
+    background-image: url(./skydive.png);
+    background-size: 50%;
+    background-blend-mode: difference;
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif'
+
+    
 
 }
