@@ -1,9 +1,24 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 150%;
+    font-size: 50px;
     font-display: center;
     background-image: url(./tunnel.jpg);
-    background-position: right;
+    background-size: 100%;
+    word-spacing: 15px;
+}
+
+h1 {
+    font-family: arial, "Times New Roman";
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: blue;
+    letter-spacing: -5px;
+    
+
 
 }
 
