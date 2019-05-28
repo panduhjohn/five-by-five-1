@@ -1,9 +1,23 @@
 body {
-    background-color: darkred
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    background-size: 100%;
+    word-spacing: 15px;
+    background-position: center;
+    background-color: darkred;
+
 }
 
 h1 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 475%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: powderblue;
+    letter-spacing: 5px;
+}
 
+li :hover{
+    font-size: 100%;
+    color: lawngreen;
+    font-family: 'Times New Roman', Times, serif;
 }

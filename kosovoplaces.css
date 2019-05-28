@@ -7,14 +7,12 @@ p {
     letter-spacing: -2px;
     font-size: 22px;
     color: beige;
-
 }
 
 h1 {
     font-size: 75px;
     color: black;
     font-family: monospace;
-
 }
 
 li :hover{

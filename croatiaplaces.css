@@ -1,10 +1,23 @@
 body {
     background-image: url(./skydive.png);
     background-size: 50%;
-    background-blend-mode: difference;
-    font-size: 200%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif'
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
 
-    
+}
 
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+    text-align: right;
+    color: rgb(221, 1, 1);
+    letter-spacing: 5px;
+
+}
+
+li :hover{
+    font-size: 100%;
+    color: rgb(0, 33, 221);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
